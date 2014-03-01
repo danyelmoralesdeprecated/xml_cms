@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding='iso-8859-1' ?>
+<miSitio>
+	<cabecera>
+		<titulo>Sitio de practicas de MeDennySoft</titulo>
+	</cabecera>
+	<cuerpo>
+	<texto>
+	   <parrafo>
+	   <![CDATA[<b>
+	Este es el sitio de practicas para el taller de Base de datos del ITC, en Cancun MX.
+	este sitio esta construido bajo los principios basicos de un CMS, completamente a mano, utilizando una libreria creada por MeDennySoft, llamada:  reader.php, mezclando XML, CSS, html y php. Por ahora nuestro CMS esta siendo refinado, ya que no admite tildes o caracteres extranos. El resto del texto despues de esta columna, seran caracteres de relleno con el documento en latin: Lorem ipsum dolor sit met.
+	</b>]]>
+	   </parrafo>
+	 </texto>
+		 <texto>
+			   <parrafo>
+			Aliquam tortor sem, dictum vestibulum vehicula non, porttitor ac est. Proin rutrum tristique arcu vel lacinia. Praesent augue lacus, semper sit amet volutpat et, dapibus ac risus. Morbi lectus neque, tincidunt non aliquam at, posuere sed metus. Fusce semper sapien enim, ac venenatis tellus. Ut vel erat eget turpis convallis adipiscing vitae id velit. Maecenas quis euismod ante. Duis faucibus fermentum velit, sit amet lobortis libero gravida id.
+			 </parrafo>
+		 </texto>
+		 <texto>
+			   <parrafo>
+			Proin placerat justo vitae augue consequat eget varius augue varius. Duis fringilla pharetra mattis. Pellentesque mollis viverra erat, et fermentum libero lobortis id. Suspendisse porttitor metus et enim faucibus eu mollis dolor lobortis. Integer placerat, felis et dignissim viverra, lectus mauris accumsan eros, vitae rutrum dolor neque eget nisl. Integer vel ullamcorper felis. In id hendrerit urna. In adipiscing nisl ut turpis eleifend accumsan. Vestibulum nec libero augue. Morbi commodo sodales risus at dapibus.
+			 </parrafo>
+		 </texto>
+		 <texto>
+			   <parrafo>
+			In porttitor, risus non bibendum pellentesque, quam sem sagittis lorem, ut porttitor nunc augue non lectus. Quisque nec felis mauris. Duis et molestie leo. Morbi cursus dignissim accumsan. Fusce ac est dui, a aliquet diam. Cras felis dui, molestie a porttitor placerat, pulvinar interdum turpis. Fusce sit amet diam a leo vehicula laoreet quis ac nulla. Nullam velit orci, dignissim non molestie at, varius vel purus. Vestibulum imperdiet, nisi a iaculis euismod, magna nulla elementum nunc, et iaculis massa diam bibendum odio. Fusce lectus nibh, laoreet sit amet adipiscing sit amet, porttitor vel sapien. Ut neque tellus, suscipit eu malesuada sit amet, accumsan non nisi.
+			 </parrafo>
+		 </texto>
+		 <texto>
+
+			   <parrafo>
+			Duis non sem adipiscing ipsum porttitor convallis ut eu massa. Integer eu lacus nec quam tincidunt consequat. Nunc scelerisque cursus justo non ultrices. In consequat commodo eros nec consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi dui, adipiscing rutrum mi. Proin adipiscing lacus quis elit tincidunt gravida. Pellentesque tempus porta dolor, in ultricies justo bibendum nec. Mauris malesuada, tortor ac placerat blandit, tortor sapien semper ligula, sit amet vestibulum nibh tortor vitae velit. Donec quis risus erat. Etiam arcu sem, tincidunt mollis facilisis sed, condimentum et leo. Duis eu lorem purus, nec sagittis nunc. Pellentesque eget neque libero, et placerat ipsum. Curabitur dapibus augue eu elit pellentesque tristique. In et metus justo, eu pellentesque ante. Ut eleifend scelerisque est a porttitor.
+			 </parrafo>
+		 </texto>
+	</cuerpo>
+<pie>
+<texto>This site is created by www.MeDennysoft.com</texto>
+</pie>
+ </miSitio>

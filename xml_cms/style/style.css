@@ -1,0 +1,42 @@
+span{
+font-family:Arial,Georgia,Serif;
+
+}
+.titulo{
+font-size:24px;
+color:ffffff;
+font-weight: bold;
+padding: 10px 20px 10px 10px; 
+}
+.margen{
+padding: 10px 20px 10px 10px; 
+}
+#header
+{
+-webkit-border-radius: 7px;
+    
+    border-radius: 8px;
+	text-align:center;
+	background-color:22597f;
+}
+
+#container
+{
+-webkit-border-radius: 7px;
+background-color:113d5b;
+}
+
+#body
+{
+background-color:bae1fd;
+color:002b3f;
+text-align:justify;
+}
+
+#footer
+{
+font-family:verdana,Georgia,Serif;
+font-size:12px;
+color:ffffff;
+text-align:center;
+}
